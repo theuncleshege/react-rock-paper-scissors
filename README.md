@@ -9,6 +9,8 @@ You can fork and clone the project and run `npm install` to install the external
 This project has been tested with node v9.5.0 and npm 6.1.0.
 
 
+###[Demo](https://theuncleshege.github.io/react-rock-paper-scissors)
+
 ## Helpful commands
 
 You have the following CLI commands available:
