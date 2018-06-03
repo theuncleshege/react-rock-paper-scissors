@@ -1,0 +1,103 @@
+body,
+html,
+.container,
+.wrapper {
+    width: 100%;
+    margin: 15px 0 0;
+}
+
+body {
+    background-color: #313247;
+    color: #ffffff;
+}
+
+.addPadding {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.center {
+    width: 100%;
+}
+
+.symbol {
+    font-size: 36px;
+    cursor: pointer;
+    padding-top: 5px;
+}
+
+.circle {
+    background-color: #fff;
+    border: 3px solid #234479;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+}
+
+.btn-floating,
+.btn-floating:hover,
+.btn-floating:focus,
+.btn-float:visited {
+    background-color: #eb3541;
+}
+
+h6,
+.title {
+    color: #757a92;
+}
+
+h5 {
+    font-size: 24px;
+}
+
+.scoreBox {
+    width: 25%;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid #757a92;
+    border-radius: 5px;
+}
+.score {
+    font-size: 16px;
+}
+
+.disabled {
+    pointer-events: none;
+    opacity: 0.7;
+}
+
+.row.disabled button {
+    background-color: #cccccc;
+}
+
+.gameModeLabels {
+    margin-top: 10px;
+}
+
+button.toggle,
+button.toggle:focus,
+button.toggle:hover,
+button.toggle:visited {
+    background-color: lightseagreen;
+}
+
+button.play,
+button.play:focus,
+button.play:hover,
+button.play:visited {
+    background-color: blueviolet;
+}
+
+button.resetgame,
+button.resetgame:focus,
+button.resetgame:hover,
+button.resetgame:visited {
+    background-color: #eb3541;
+    margin-top: 20px;
+}
+
+.weapon {
+    text-transform: capitalize;
+}
